@@ -1,7 +1,5 @@
-# taskit
-Project from Roadmap.sh
-
-https://roadmap.sh/projects/task-tracker
+# Taskit
+[Project](https://roadmap.sh/projects/task-tracker/solutions?u=647426d9c4ec366ad5b0f25a) from Roadmap.sh
 
 ## Task Tracker CLI
 
