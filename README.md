@@ -1,14 +1,24 @@
 # Taskit
+
 [Project](https://roadmap.sh/projects/task-tracker/solutions?u=647426d9c4ec366ad5b0f25a) from Roadmap.sh
 
-## Task Tracker CLI
+## Prerequisites
+
+- Python 3.10+
+- [pipx](https://pypa.github.io/pipx/)
 
 ### Installation
 
 ```sh
-pip install git+https://github.com/itsukuna/taskit.git
+pipx install git+https://github.com/itsukuna/taskit.git
 ```
 
+If you don't have `pipx` installed, you can install it first:
+
+```sh
+python3 -m pip install --user pipx
+python3 -m pipx ensurepath
+```
 ### Usage
 
 Run the CLI:
