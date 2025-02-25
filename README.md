@@ -5,7 +5,6 @@
 
 ### Installation
 
-Clone the repository:
 ```sh
 pip install git+https://github.com/itsukuna/taskit.git
 ```
